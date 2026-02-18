@@ -1,0 +1,10 @@
+127.0.0.1 - - [27/Dec/2024:11:19:28 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [27/Dec/2024:11:19:30 +0530] "GET /Employee/home.jsp HTTP/1.1" 200 5758
+0:0:0:0:0:0:0:1 - - [27/Dec/2024:11:19:30 +0530] "GET /Employee/home1.css HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [27/Dec/2024:11:19:30 +0530] "GET /favicon.ico HTTP/1.1" 404 762
+0:0:0:0:0:0:0:1 - - [27/Dec/2024:11:19:39 +0530] "GET /Employee/employeeInsert.jsp HTTP/1.1" 200 3888
+0:0:0:0:0:0:0:1 - - [27/Dec/2024:11:20:25 +0530] "POST /Employee/insert HTTP/1.1" 200 2080
+0:0:0:0:0:0:0:1 - - [27/Dec/2024:11:20:32 +0530] "POST /Employee/view HTTP/1.1" 200 9476
+0:0:0:0:0:0:0:1 - - [27/Dec/2024:11:22:38 +0530] "GET /Employee/feedback_Insert.jsp HTTP/1.1" 200 3466
+0:0:0:0:0:0:0:1 - - [27/Dec/2024:11:22:42 +0530] "GET /Employee/home.jsp HTTP/1.1" 200 5758
+0:0:0:0:0:0:0:1 - - [27/Dec/2024:11:24:01 +0530] "GET /Employee/ticketinsert.jsp HTTP/1.1" 200 3848
